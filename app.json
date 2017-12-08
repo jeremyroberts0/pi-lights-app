@@ -22,10 +22,10 @@
       "backgroundColor": "#000000"
     },
     "ios": {
-      "bundleIdentifier": "com.jeremyroberts0.pi-lights"
+      "bundleIdentifier": "com.jeremyroberts0.pilights"
     },
     "android": {
-      "package": "com.jeremyroberts0.pi-lights"
+      "package": "com.jeremyroberts0.pilights"
     }
   }
 }
