@@ -1,8 +1,12 @@
 {
   "main": "node_modules/expo/AppEntry.js",
   "private": true,
+  "scripts": {
+    "start": "exp start"
+  },
   "dependencies": {
     "expo": "^23.0.0",
+    "native-base": "^2.3.4",
     "react": "16.0.0",
     "react-native": "https://github.com/expo/react-native/archive/sdk-23.0.0.tar.gz"
   }
