@@ -20,6 +20,12 @@
     "androidStatusBar": {
       "barStyle": "dark-content",
       "backgroundColor": "#000000"
+    },
+    "ios": {
+      "bundleIdentifier": "com.jeremyroberts0.pi-lights"
+    },
+    "android": {
+      "package": "com.jeremyroberts0.pi-lights"
     }
   }
 }
